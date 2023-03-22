@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name=" Saucelad -  Sort " parallel="tests"
+		thread-count="2">
+		<listeners>
+				<listener class-name="commons.MethodListener" />
+		</listeners>
+
+		<test name="Run on Firefox">
+				<parameter name="url" value="https://www.saucedemo.com/" />
+				<parameter name="os" value="Windows" />
+				<parameter name="os_version" value="10" />
+				<parameter name="browser" value="Firefox" />
+				<parameter name="browser_version" value="84.0" />
+				<classes>
+						<class name="com.saurcelab.cloudtesting.Level_19_Sort_Asc_Desc_Cloud_Testing" />
+				</classes>
+		</test>
+			<test name="Run on Chrome">
+				<parameter name="url" value="https://www.saucedemo.com/" />
+				<parameter name="os" value="Windows" />
+				<parameter name="os_version" value="10" />
+				<parameter name="browser" value="Chrome" />
+				<parameter name="browser_version" value="87.0" />
+				<classes>
+					<class name="com.saurcelab.cloudtesting.Level_19_Sort_Asc_Desc_Cloud_Testing" />
+				</classes>
+		</test>
+
+</suite> 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name=" Saucelad -  Sort " parallel="false">
+		<listeners>
+				<listener class-name="commons.MethodListener" />
+		</listeners>
+		<parameter name="appUrl"
+				value="https://www.saucedemo.com/"></parameter>
+		<test name="Run on Chrome">
+				<parameter name="browser" value="firefox"></parameter>
+
+				<classes>
+						<class name="com.saurcelab.sort.Level_19_Sort_Asc_Desc" />
+				</classes>
+		</test>
+
+</suite> 

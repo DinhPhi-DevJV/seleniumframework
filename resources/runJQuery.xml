@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="JQuery">
+	<!-- <test name="Run on Cốc Cốc">
+		<parameter name="browser" value="coccoc"></parameter>
+		<classes>
+			<class
+				name="com.nopcommerce.user.Level_7_Switch_Page" />
+		</classes>
+	</test> -->
+	<parameter name="url" value="https://www.jqueryscript.net/demo/jQuery-Dynamic-Data-Grid-Plugin-appendGrid/"></parameter>
+	<test name="Run on Chrome">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class
+				name="com.jquery.datatable.Level_10_DataTable_DataGird"/>
+		</classes>
+	</test>
+
+</suite> 

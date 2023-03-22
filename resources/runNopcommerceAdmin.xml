@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="Nopcommerce - Admin">
+	<!-- <test name="Run on Cốc Cốc"> <parameter name="browser" value="coccoc"></parameter> 
+		<classes> <class name="com.nopcommerce.user.Level_7_Switch_Page" /> </classes> 
+		</test> -->
+	<listeners>
+
+		<listener class-name="commons.MethodListener" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+
+	</listeners>
+
+	<test name="Run on Chrome">
+
+		<parameter name="browser" value="firefox"></parameter>
+
+		<classes>
+			<class name="com.nopcommerce.user.Level_14_LogReportNG" />
+		</classes>
+
+	</test>
+
+</suite> 

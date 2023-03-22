@@ -1,0 +1,106 @@
+[INFO ] [2023-03-09 16:04:04,020] pre-conditon - Step 01: open browser and admin Url
+[INFO ] [2023-03-09 16:04:18,950] pre-conditon - Step 02: Enter to Username textbox with value : automationfc
+[INFO ] [2023-03-09 16:04:19,508] pre-conditon - Step 03: Enter to Password textbox with value: automationfc
+[INFO ] [2023-03-09 16:04:19,665] pre-conditon - Step 04: Enter to Login button
+[INFO ] [2023-03-09 16:04:27,078]  View User - Step 01: Click to 'User' menu link
+[INFO ] [2023-03-09 16:04:31,683] View User - Step 02: Get alls User from UI
+[INFO ] [2023-03-09 16:04:32,306] OS name = Windows 10
+[INFO ] [2023-03-09 16:04:32,306] Driver instance name = firefoxdriver: firefox on windows (1fe97125-2051-4095-9a78-d9da24a75263)
+[INFO ] [2023-03-09 16:05:42,286] pre-conditon - Step 01: open browser and admin Url
+[INFO ] [2023-03-09 16:05:53,649] pre-conditon - Step 02: Enter to Username textbox with value : automationfc
+[INFO ] [2023-03-09 16:05:54,108] pre-conditon - Step 03: Enter to Password textbox with value: automationfc
+[INFO ] [2023-03-09 16:05:54,242] pre-conditon - Step 04: Enter to Login button
+[INFO ] [2023-03-09 16:05:59,915]  View User - Step 01: Click to 'User' menu link
+[INFO ] [2023-03-09 16:06:03,638] View User - Step 02: Get alls User from UI
+[INFO ] [2023-03-09 16:06:04,387] OS name = Windows 10
+[INFO ] [2023-03-09 16:06:04,387] Driver instance name = firefoxdriver: firefox on windows (964b00b6-fd5b-4ba8-9d79-79521873f8c3)
+[INFO ] [2023-03-09 16:10:01,805] pre-conditon - Step 01: open browser and admin Url
+[INFO ] [2023-03-09 16:10:14,824] pre-conditon - Step 02: Enter to Username textbox with value : automationfc
+[INFO ] [2023-03-09 16:10:15,350] pre-conditon - Step 03: Enter to Password textbox with value: automationfc
+[INFO ] [2023-03-09 16:10:15,523] pre-conditon - Step 04: Enter to Login button
+[INFO ] [2023-03-09 16:10:21,258]  View User - Step 01: Click to 'User' menu link
+[INFO ] [2023-03-09 16:10:28,261] View User - Step 02: Get alls User from UI
+[INFO ] [2023-03-09 16:10:29,032] OS name = Windows 10
+[INFO ] [2023-03-09 16:10:29,032] Driver instance name = firefoxdriver: firefox on windows (bba76d5a-ba87-45cf-9728-adbc8d5c92a9)
+[INFO ] [2023-03-09 16:20:04,622] pre-conditon - Step 01: open browser and admin Url
+[INFO ] [2023-03-09 16:20:18,428] pre-conditon - Step 02: Enter to Username textbox with value : automationfc
+[INFO ] [2023-03-09 16:20:18,977] pre-conditon - Step 03: Enter to Password textbox with value: automationfc
+[INFO ] [2023-03-09 16:20:19,098] pre-conditon - Step 04: Enter to Login button
+[INFO ] [2023-03-09 16:20:24,981]  View User - Step 01: Click to 'User' menu link
+[INFO ] [2023-03-09 16:20:31,119] View User - Step 02: Get alls User from UI
+[INFO ] [2023-03-09 16:20:31,231] View User - Step 03: Get alls User from DB
+[INFO ] [2023-03-09 16:20:32,544] View User - Step 04: Verify that the number of users displayed at UI with the database are equals
+[INFO ] [2023-03-09 16:20:32,564]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-03-09 16:20:33,085] OS name = Windows 10
+[INFO ] [2023-03-09 16:20:33,086] Driver instance name = firefoxdriver: firefox on windows (a0096708-e296-4dfd-b192-bea5a3cf4a3a)
+[INFO ] [2023-03-09 16:22:08,317] pre-conditon - Step 01: open browser and admin Url
+[INFO ] [2023-03-09 16:22:22,079] pre-conditon - Step 02: Enter to Username textbox with value : automationfc
+[INFO ] [2023-03-09 16:22:22,689] pre-conditon - Step 03: Enter to Password textbox with value: automationfc
+[INFO ] [2023-03-09 16:22:22,963] pre-conditon - Step 04: Enter to Login button
+[INFO ] [2023-03-09 16:22:29,279]  View User - Step 01: Click to 'User' menu link
+[INFO ] [2023-03-09 16:22:53,519] View User - Step 02: Get alls User from UI
+[INFO ] [2023-03-09 16:22:56,661] OS name = Windows 10
+[INFO ] [2023-03-09 16:22:56,662] Driver instance name = firefoxdriver: firefox on windows (6fbe6c19-d0d6-4050-8904-5c5cd089606e)
+[INFO ] [2023-03-09 16:23:55,514] pre-conditon - Step 01: open browser and admin Url
+[INFO ] [2023-03-09 16:24:12,947] pre-conditon - Step 02: Enter to Username textbox with value : automationfc
+[INFO ] [2023-03-09 16:24:13,321] pre-conditon - Step 03: Enter to Password textbox with value: automationfc
+[INFO ] [2023-03-09 16:24:13,542] pre-conditon - Step 04: Enter to Login button
+[INFO ] [2023-03-09 16:24:20,257]  View User - Step 01: Click to 'User' menu link
+[INFO ] [2023-03-09 16:24:25,133] View User - Step 02: Get alls User from UI
+[INFO ] [2023-03-09 16:24:26,123] OS name = Windows 10
+[INFO ] [2023-03-09 16:24:26,124] Driver instance name = firefoxdriver: firefox on windows (a8cdae9a-3cc4-4158-ad29-9f869cf48314)
+[INFO ] [2023-03-09 16:25:48,550] pre-conditon - Step 01: open browser and admin Url
+[INFO ] [2023-03-09 16:25:57,916] pre-conditon - Step 02: Enter to Username textbox with value : automationfc
+[INFO ] [2023-03-09 16:25:58,378] pre-conditon - Step 03: Enter to Password textbox with value: automationfc
+[INFO ] [2023-03-09 16:25:58,583] pre-conditon - Step 04: Enter to Login button
+[INFO ] [2023-03-09 16:26:04,732]  View User - Step 01: Click to 'User' menu link
+[INFO ] [2023-03-09 16:26:08,384] View User - Step 02: Get alls User from UI
+[INFO ] [2023-03-09 16:26:08,598] View User - Step 03: Get alls User from DB
+[INFO ] [2023-03-09 16:26:09,967] View User - Step 04: Verify that the number of users displayed at UI with the database are equals
+[INFO ] [2023-03-09 16:26:09,984]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-03-09 16:26:10,407] OS name = Windows 10
+[INFO ] [2023-03-09 16:26:10,408] Driver instance name = firefoxdriver: firefox on windows (59e49a98-2e4c-4263-95cd-7ac340efb52d)
+[INFO ] [2023-03-09 16:29:26,466] pre-conditon - Step 01: open browser and admin Url
+[INFO ] [2023-03-09 16:29:38,337] pre-conditon - Step 02: Enter to Username textbox with value : automationfc
+[INFO ] [2023-03-09 16:29:38,850] pre-conditon - Step 03: Enter to Password textbox with value: automationfc
+[INFO ] [2023-03-09 16:29:39,301] pre-conditon - Step 04: Enter to Login button
+[INFO ] [2023-03-09 16:29:45,377]  View User - Step 01: Click to 'User' menu link
+[INFO ] [2023-03-09 16:29:49,642] View User - Step 02: Get alls User from UI
+[INFO ] [2023-03-09 16:29:49,717] View User - Step 03: Get alls User from DB
+[INFO ] [2023-03-09 16:29:50,672] View User - Step 04: Verify that the number of users displayed at UI with the database are equals
+[INFO ] [2023-03-09 16:29:50,675]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-03-09 16:29:51,101] OS name = Windows 10
+[INFO ] [2023-03-09 16:29:51,102] Driver instance name = firefoxdriver: firefox on windows (ea801979-4c0c-43ad-998f-1c01c36f8b7b)
+[INFO ] [2023-03-09 16:32:55,188] pre-conditon - Step 01: open browser and admin Url
+[INFO ] [2023-03-09 16:33:04,895] pre-conditon - Step 02: Enter to Username textbox with value : automationfc
+[INFO ] [2023-03-09 16:33:05,416] pre-conditon - Step 03: Enter to Password textbox with value: automationfc
+[INFO ] [2023-03-09 16:33:05,591] pre-conditon - Step 04: Enter to Login button
+[INFO ] [2023-03-09 16:33:12,324]  View User - Step 01: Click to 'User' menu link
+[INFO ] [2023-03-09 16:33:16,680] View User - Step 02: Get alls User from UI
+[INFO ] [2023-03-09 16:33:16,831] View User - Step 03: Get alls User from DB
+[INFO ] [2023-03-09 16:33:17,674] View User - Step 04: Verify that the number of users displayed at UI with the database are equals
+[INFO ] [2023-03-09 16:33:17,677]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-03-09 16:33:18,119] OS name = Windows 10
+[INFO ] [2023-03-09 16:33:18,119] Driver instance name = firefoxdriver: firefox on windows (8ea3e4c9-c270-4e64-86be-a7ba91fbfca4)
+[INFO ] [2023-03-09 16:34:35,214] pre-conditon - Step 01: open browser and admin Url
+[INFO ] [2023-03-09 16:34:55,422] pre-conditon - Step 02: Enter to Username textbox with value : automationfc
+[INFO ] [2023-03-09 16:34:56,322] pre-conditon - Step 03: Enter to Password textbox with value: automationfc
+[INFO ] [2023-03-09 16:34:57,005] pre-conditon - Step 04: Enter to Login button
+[INFO ] [2023-03-09 16:35:03,516]  View User - Step 01: Click to 'User' menu link
+[INFO ] [2023-03-09 16:35:17,211] View User - Step 02: Get alls User from UI
+[INFO ] [2023-03-09 16:35:17,336] View User - Step 03: Get alls User from DB
+[INFO ] [2023-03-09 16:35:18,634] View User - Step 04: Verify that the number of users displayed at UI with the database are equals
+[INFO ] [2023-03-09 16:35:18,655]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-03-09 16:35:19,154] OS name = Windows 10
+[INFO ] [2023-03-09 16:35:19,154] Driver instance name = firefoxdriver: firefox on windows (42b546af-f5fa-4a7b-b6ff-d3b49129d204)
+[INFO ] [2023-03-09 16:36:36,733] pre-conditon - Step 01: open browser and admin Url
+[INFO ] [2023-03-09 16:36:52,985] pre-conditon - Step 02: Enter to Username textbox with value : automationfc
+[INFO ] [2023-03-09 16:36:53,690] pre-conditon - Step 03: Enter to Password textbox with value: automationfc
+[INFO ] [2023-03-09 16:36:53,902] pre-conditon - Step 04: Enter to Login button
+[INFO ] [2023-03-09 16:36:59,840]  View User - Step 01: Click to 'User' menu link
+[INFO ] [2023-03-09 16:37:09,032] View User - Step 02: Get alls User from UI
+[INFO ] [2023-03-09 16:37:09,261] View User - Step 03: Get alls User from DB
+[INFO ] [2023-03-09 16:37:11,146] View User - Step 04: Verify that the number of users displayed at UI with the database are equals
+[INFO ] [2023-03-09 16:37:11,158]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-09 16:37:11,576] OS name = Windows 10
+[INFO ] [2023-03-09 16:37:11,576] Driver instance name = firefoxdriver: firefox on windows (8ad2f54d-086e-4815-ada8-2980662c4902)
